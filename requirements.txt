@@ -1,0 +1,40 @@
+# Core dependencies
+flask
+flask-cors
+python-dotenv
+
+# LangChain and related
+langchain
+langchain-community
+langchain-core
+sentence-transformers
+faiss-cpu
+rank_bm25
+
+# Document processing
+pypdf
+
+# Embeddings and models
+huggingface-hub
+transformers
+
+# Cohere for reranking
+cohere
+
+# OpenAI for LLM
+openai
+
+# RAGAS evaluation
+ragas
+datasets
+
+# Data processing
+pandas
+numpy
+
+# Async support
+asyncio
+aiohttp
+
+# Logging
+colorlog
